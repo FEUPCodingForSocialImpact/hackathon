@@ -1,6 +1,6 @@
 #Hackathon Cidade + Inteligente  
   
-[RPI](http://i.imgur.com/IAZ3X.jpg)  
+[RPI](http://i.imgur.com/IAZ3X.jpg)    
   
 Visita a [WIKI](https://github.com/Coding4Kids/cidadeinteligente/wiki)  
   
