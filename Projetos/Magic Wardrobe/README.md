@@ -1,17 +1,17 @@
 #Hackathon Cidade + Inteligente  
   
-### NomeDoProjeto...  
+### Magic Wardrobe 
   
-DescricaodoProjeto...  
+Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a temperatura e a metereologia dando-nos sugestões baseadas nas mesmas das possíveis combinações que podemos usar.  
   
 #### Autores  
   
 |Nome  |E-mail  |  
 |---|---|---|    
-|Nome1  |[aluno1](mailto:aluno1@gmail.com)  |  
-|Nome2  |[aluno2](mailto:aluno1@gmail.com)  |  
-|Nome3  |[aluno3](mailto:aluno1@gmail.com)  |  
-|Nome4  |[aluno4](mailto:aluno1@gmail.com)  |  
+|Filipa Pimentel  |[Filipa](fifpimentel@gmail.com)  |  
+|Guilherme Guedes |[Guilherme](guilhermegog@gmail.com)  |  
+|Luís Lopes Cardoso |[Luís](luislcardoso2000@gmail.com)  |  
+|Pedro Dias |[Pedro](pedropaixaod@gmail.com)  |  
   
 #### Instruções
   
@@ -22,8 +22,8 @@ DescricaodoProjeto...
   
 |Nome  |Link  |  
 |---|---|---|    
-|Nome1  |[Ver aqui](http://link.com)  |  
-|Nome2  |[Ver aqui](http://link.com)  |  
+|Raspberry Pi 3|[Ver aqui](https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/)  |  
+|SenseHat|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |  
 |Nome3  |[Ver aqui](http://link.com)  |  
 |Nome4  |[Ver aqui](http://link.com)  |  
     
@@ -31,8 +31,8 @@ DescricaodoProjeto...
   
 |Nome  |Link  |  
 |---|---|---|    
-|Nome1  |[Ver aqui](http://link.com)  |  
-|Nome2  |[Ver aqui](http://link.com)  |  
+|SenseHat software|[Ver aqui](http://pythonhosted.org/sense-hat/)  |  
+|Python |[Ver aqui](https://www.python.org/)  |  
 |Nome3  |[Ver aqui](http://link.com)  |  
 |Nome4  |[Ver aqui](http://link.com)  |  
   
