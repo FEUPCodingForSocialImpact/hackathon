@@ -24,8 +24,7 @@ Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a 
 |---|---|---|    
 |Raspberry Pi 3|[Ver aqui](https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/)  |  
 |SenseHat|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |  
-|Nome3  |[Ver aqui](http://link.com)  |  
-|Nome4  |[Ver aqui](http://link.com)  |  
+ 
     
 #### Software  
   
@@ -33,14 +32,13 @@ Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a 
 |---|---|---|    
 |SenseHat software|[Ver aqui](http://pythonhosted.org/sense-hat/)  |  
 |Python |[Ver aqui](https://www.python.org/)  |  
-|Nome3  |[Ver aqui](http://link.com)  |  
-|Nome4  |[Ver aqui](http://link.com)  |  
   
+ 
 ##### Autores Externos ou Referências  
   
-|Nome  |E-mail  |  
-|---|---|---|    
-|Nome1  |[aluno1](mailto:aluno1@gmail.com)  |  
+#|Nome  |E-mail  |  
+#|---|---|---|    
+#|Nome1  |[aluno1](mailto:aluno1@gmail.com)  |  
   
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
