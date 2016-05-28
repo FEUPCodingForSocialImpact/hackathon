@@ -15,9 +15,11 @@ Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a 
   
 #### Instruções
   
-1.Abrir o ficheiro xyz.py  
-2.F5  
-  
+1.Abrir o ficheiro Magic_Wardrobe.py  
+2.Colocar os ficheios Met no ambiente de trabalho
+3.Colocar os códigos chooseitem.py additem.py e Magic_Wardrobe.py na mesma pasta
+4.F5  
+
 #### Hardware  
   
 |Nome  |Link  |  
