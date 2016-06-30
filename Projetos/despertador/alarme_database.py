@@ -8,14 +8,11 @@ import csv
 pygame.init()
 pygame.display.set_mode((1,1))
 sense = SenseHat()
-
 sense.clear()
 
 state = 0
 
-
-
-
+alarm_hour = "12"
 def alarme_show(state):
     if state == 0:
         current_time_hour = datetime.datetime.now().hour
@@ -54,6 +51,9 @@ def alarme_show(state):
 def alarme(state, hour):
     hour_count = int(hour)
     minute_count = int(hour)
+    global alarm_minute
+    global alarm_hour
+    
     while state == 0:
         for event in pygame.event.get():
             print(event)
@@ -76,8 +76,14 @@ def alarme(state, hour):
                 state = 1
                 sense.clear()
                 sense.show_letter(":");
-                global alarm_hour
-                alarm_hour = str(hour_count)
+
+                
+                if hour_count < 10:
+                    alarm_hour = "0" + str(hour_count)
+                else:
+                    alarm_hour = str(hour_count)
+                
+                
                 time.sleep(0.5)
                 sense.clear()
                 
@@ -107,9 +113,17 @@ def alarme(state, hour):
                 state = 2
                 sense.clear()
 
-                global alarm_minute
+               
+
+                
+                if minute_count < 10:
+                    alarm_minute = "0" + str(minute_count)
+                else:
+                    alarm_minute = str(minute_count)
+                    
+                
                 alarm_minute  = str(minute_count)
-                global alarm_clock
+                
                 alarm_clock = alarm_hour + ":" + alarm_minute
                 print (alarm_clock)
                 
@@ -131,10 +145,10 @@ def alarme(state, hour):
                 else:
                     hour_count += 1
                     sense.show_message(str(hour_count), scroll_speed = 0.03)
-
-                            
+               
+            music = hour_count               
             if event.type==KEYDOWN and event.key == K_RETURN:
-                music = hour_count
+                
                 
                 reader = open("database.csv", "r")
                 read = reader.read()
@@ -157,13 +171,22 @@ def alarme(state, hour):
             
     
 def verificar():
-    while True:
+
+    alarming = False
+    while not alarming:
         current_time_hour = datetime.datetime.now().hour
         hour = str(current_time_hour)
 
         current_time_minute = datetime.datetime.now().minute
         minutes = str(current_time_minute)
 
+        if current_time_hour < 10:
+                hour = "0" + str(current_time_hour)
+            
+
+        if current_time_minute < 10:
+                minutes = "0" + str(current_time_minute)    
+        
         despertador = (hour + ":" + minutes).strip()
 
         with open("database.csv", "rb") as f:
@@ -174,6 +197,8 @@ def verificar():
                 if text[2:7] != despertador:
                     continue
                 else:
+                    music = text[8]
+                    alarming = True
                     break
     
      
@@ -239,19 +264,21 @@ def verificar():
     sense.clear(0, 255, 0)
     time.sleep(0.2)
 
-    if read[5] == "1":
+    print text[8]
+
+    if music == "1":
             pygame.mixer.init()
             pygame.mixer.music.load("Som de campainha   sinal   despertador.mp3")
             pygame.mixer.music.play()
             while pygame.mixer.music.get_busy() == True:
                 continue
-    elif read[5] == "2":
+    elif music == "2":
             pygame.mixer.init()
             pygame.mixer.music.load("Kim Possible Intro (Portuguese version).mp3")
             pygame.mixer.music.play()
             while pygame.mixer.music.get_busy() == True:
                 continue
-    elif read[5] == "3":
+    elif music == "3":
             pygame.mixer.init()
             pygame.mixer.music.load("Phineas e Ferb (Abertura em PT-PT) 720p.mp3")
             pygame.mixer.music.play()
