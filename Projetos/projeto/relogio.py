@@ -40,8 +40,8 @@ def horas():
             """
             if current_time_hour < 10:
                 hour = "0" + str(current_time_hour)
-            """
-
+            
+"""
             if current_time_minute < 10:
                 minutes = "0" + str(current_time_minute)    
 

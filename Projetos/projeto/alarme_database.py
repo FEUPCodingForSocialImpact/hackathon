@@ -164,17 +164,17 @@ def verificar():
         current_time_minute = datetime.datetime.now().minute
         minutes = str(current_time_minute)
 
-        despertador = hour + ":" + minutes
+        despertador = (hour + ":" + minutes).strip()
 
-        global  fi 
-        fi = open("database.csv", "r")
-        read = fi.read()
-        
-        if  read[0:4] != despertador:
-                print(read.rows[0])
-        
-        else:
-            break
+        with open("database.csv", "rb") as f:
+            reader = csv.reader(f, delimiter="\t")
+            for i, line in enumerate(reader):
+                text = str(line).strip()
+                print "linha " + text[2:7] + "despertador=" + despertador
+                if text[2:7] != despertador:
+                    continue
+                else:
+                    break
     
      
        
