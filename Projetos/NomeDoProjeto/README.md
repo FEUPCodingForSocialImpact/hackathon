@@ -15,8 +15,8 @@ DescricaodoProjeto...
   
 #### Instruções
   
-1.Abrir o ficheiro xyz.py
-2.F5
+1.Abrir o ficheiro xyz.py  
+2.F5  
   
 #### Hardware  
   
