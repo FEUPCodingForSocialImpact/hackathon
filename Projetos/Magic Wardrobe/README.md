@@ -4,6 +4,8 @@
   
 Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a temperatura e a metereologia dando-nos sugestões baseadas nas mesmas das possíveis combinações que podemos usar.  
   
+###### [Vídeo aqui](Demo/20160630_151402.mp4?raw=true) e [aqui](Demo/20160630_151432.mp4?raw=true)  
+  
 #### Autores  
   
 |Nome  |E-mail  |  
