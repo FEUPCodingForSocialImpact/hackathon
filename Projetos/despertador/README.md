@@ -1,39 +1,39 @@
 #Hackathon Cidade + Inteligente  
+
+### Despertador
   
-### NomeDoProjeto...  
-  
-Relógio e despertador 
-  
+Relógio e despertador
+
 #### Autores  
-  
+
 |Nome  |E-mail  |  
 |---|---|---|    
 |Daniel Sousa  |[mail](mailto:chocaplikes@gmail.com)  |  
 |Diogo Martins  |[mail](mailto:diogomartins3000@hotmail.com)  |  
 |Francisco Costa  |[mail](mailto:xico.costa@outlook.com)  |  
 |Rodrigo Reis  |[mail](mailto:rodrigocreis.12@gmail.com)  |  
-  
+
 #### Instruções
-  
+
 1.Abrir o ficheiro relógio.py
 2.Abrir o ficheiro alarme.py  
 3.F5  
-  
+
 #### Hardware  
-  
+
 |Nome  |Link  |  
 |---|---|---|    
 |Raspberry Pi  |[Ver aqui](https://www.raspberrypi.org/)  |  
 |SenseHat  |[Ver aqui](https://www.raspberrypi.org/?s=sense+hat)  |  
 
 #### Software  
-  
+
 |Nome  |Link  |  
 |---|---|---|    
 |python |[Ver aqui](https://www.python.org/)  |  
- 
-  
-  
+
+
+
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
 [**Coding 4 Kids**](http://coding4kids.github.io/coding4kids/)  
