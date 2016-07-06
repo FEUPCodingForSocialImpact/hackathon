@@ -15,7 +15,7 @@ Relógio e despertador
 |Francisco Costa  |[mail](mailto:xico.costa@outlook.com)  |  
 |Rodrigo Reis  |[mail](mailto:rodrigocreis.12@gmail.com)  |  
 
-#### Instruções
+#### Instruções  
 
 1.Abrir o ficheiro relógio.py
 2.Abrir o ficheiro alarme.py  
@@ -33,9 +33,7 @@ Relógio e despertador
 |Nome  |Link  |  
 |---|---|---|    
 |python |[Ver aqui](https://www.python.org/)  |  
-
-
-
+  
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
 [**Coding 4 Kids**](http://coding4kids.github.io/coding4kids/)  
