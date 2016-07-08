@@ -1,37 +1,38 @@
 #Hackathon Cidade + Inteligente  
 
-### Nome...
+### D.Y.I.
 
-   Descrição...
+Sistema de segurança
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](Demo/D.I.Y.Security.mp4?raw=true)  
   
 #### Autores  
 
 |Nome  |E-mail  |  
 |---|---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Diogo Sousa  |[Email](mailto:dmiguelsousa@gmail.com)  |  
+|Eduardo Lourenço  |[Email](mailto:eduardo@climaconforto.pt)  |  
+|João Araújo  |[Email](mailto:jfcaraujo99@gmail.com)  |  
+|Ricardo Carvalho  |[Email](mailto:ricardogcarv@gmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro alarme.py e pyespeak.py e guardá-los na mesma pasta
+2. Abrir o ficheiro alarme.py
+3. F5
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|SenseHat  |[Ver aqui](https://www.raspberrypi.org/?s=sense+hat)  |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|python |[Ver aqui](https://www.python.org/)  |    
 
 
 ***  
