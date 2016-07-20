@@ -4,12 +4,12 @@
 
 Quantas vezes se perguntou o que tem na sua despensa? O objetivo deste software é resolver essa questão! Através da interface incluída,
 você poderá adicionar e eliminar produtos da base de dados, controlar a sua quantidade e atribuir-lhes uma categoria. Através de apenas um
-comando, você poderá ver todos os seus produtos, ver os que não tem e até vê-los por categorias. A cada produto pode ser atríbuido ainda o 
+comando, você poderá ver todos os seus produtos, ver os que não tem e até vê-los por categorias. A cada produto pode ser atríbuido ainda o
 estatuto de "produto prioritário" e ver apenas os produtos com este estatuto.
 A partir de agora, terá a sua despensa na ponta dos dedos!
-  
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
-  
+
+##### [Vídeo aqui](Demo/ipantry.mov?raw=true)  
+
 #### Autores  
 
 |Nome  |E-mail  |  
