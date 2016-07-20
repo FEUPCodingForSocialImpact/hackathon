@@ -1,11 +1,11 @@
 #Hackathon Cidade + Inteligente  
 
 ### Piscina Inteligente  
-  
+
 A nossa aplicação foi criada para permitir ao utilizador controlar totalmente a sua piscina através de um unico dispositivo, permitindo assim uma utilizaçao facil, eficaz e segura da mesma, assim como, da sua manutenção.
-  
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
-  
+
+##### [Vídeo aqui](Demo/piscinainteligente.mov?raw=true)  
+
 #### Autores  
 
 |Nome  |E-mail  |  
