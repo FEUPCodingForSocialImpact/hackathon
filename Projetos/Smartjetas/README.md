@@ -3,9 +3,9 @@
 ### Smartjetas
 
    O objetivo do projeto é evitar as cheias e inundações provocadas por o entupimento de sarjetas.
-  
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
-  
+
+##### [Vídeo aqui](Demo/smartjetas.mp4?raw=true)  
+
 #### Autores  
 
 |Nome  |E-mail  |  
@@ -14,7 +14,7 @@
 |Gonçalo Silva |[Email](mailto:game4living@gmail.com)  |  
 |João Melo |[Email](mailto:joaonfmelo@gmail.com)  |  
 |Vítor Ventuzelos  |[Email](mailto:skullventuzelos@hotmail.com)  |  
-|Mário Girio  |[Email](mailto:mariofgirio@gmail.com)  | 
+|Mário Girio  |[Email](mailto:mariofgirio@gmail.com)  |
 
 #### Instruções
 
