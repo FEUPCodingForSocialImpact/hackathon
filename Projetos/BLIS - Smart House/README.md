@@ -3,9 +3,9 @@
 ### BLIS - Smart House
 
 Programa que controla uma casa inteligente com diversas funcionalidades, passando pela temperatura, persianas, portas, janelas, sistema de som, televisão e luzes.
-  
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
-  
+
+##### [Vídeo aqui](Demo/blis.mp4?raw=true)  
+
 #### Autores  
 
 |Nome  |E-mail  |  
