@@ -3,9 +3,9 @@
 ### Parque Inteligente
 
    Parque de estacionamento com carregador de carros eletricos automatizado utilizando python, ligados a diversos sensores que determinam se é possivel carregar o carro naquele posto, ou não.
-  
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
-  
+
+##### [Vídeo aqui](Demo/parqueinteligente.mov?raw=true)  
+
 #### Autores  
 
 |Nome  |E-mail  |  
@@ -45,4 +45,3 @@ Para mais informações [contacte-me](mailto:nunofilipesantos@gmail.com).
 [![Creative Commons Attribution-ShareAlike 4.0 International License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License**.  
 To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.  
-
