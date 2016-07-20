@@ -4,6 +4,8 @@
 
    Descrição: Construção ou demolição de uma cidade que simula vários incidentes tais como roubos, incêndios, etc... Este projeto já vem com uma cidade pré-definida para simular os mesmos.
 
+##### [Vídeo aqui](Demo/simcity.mov?raw=true)  
+
 #### Autores  
 
 |Nome  |E-mail  |  
@@ -11,7 +13,7 @@
 |Pedro Miranda  |[Email](mailto:pepepmiranda@hotmail.com)  |  
 |Vítor Silva  |[Email](mailto:vitortavaressilva8@sapo.pt)  |  
 |Armando Rodrigues  |[Email](mailto:zearmando2000@gmail.com)  |  
-|Gelson Almeida  |[Email](mailto:gelsonalmeida2000@hotmail.com)  | 
+|Gelson Almeida  |[Email](mailto:gelsonalmeida2000@hotmail.com)  |
 |Álvaro Pereira |Não tem |
 
 #### Instruções
