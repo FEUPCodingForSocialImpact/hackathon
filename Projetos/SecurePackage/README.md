@@ -1,9 +1,9 @@
-#Hackathon Cidade + Inteligente  
+﻿#Hackathon Cidade + Inteligente  
 
 ### SecurePackage
 Secure Package é uma aplicação para Raspeberry Pi que tem como objetivo avisar o 
 
-comprador caso a sua encomenda seja danificada durante o transporte para este puder apresentar uma reclamação.
+comprador caso a sua encomenda seja danificada durante o transporte para este puder apresentar uma reclamação.  
  
 O vendedor terá de preencher alguns parametros como a massa, o tamanho e o material. Com estes valores
 
