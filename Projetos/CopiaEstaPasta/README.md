@@ -9,7 +9,7 @@
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |Nome1  |[Email](mailto:email1@gmail.com)  |  
 |Nome2  |[Email](mailto:email2@gmail.com)  |  
 |Nome3  |[Email](mailto:email3@live.com.pt)  |  
@@ -24,13 +24,13 @@
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |XXX  |[Ver aqui](http://www.xxx.yyy)  |  
 
 
