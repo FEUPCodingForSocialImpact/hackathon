@@ -1,3 +1,4 @@
+
 #Hackathon Cidade + Inteligente  
 
 ### Despertador  
@@ -18,7 +19,9 @@ Relógio e despertador
 #### Instruções  
 
 1.Abrir o ficheiro relógio.py
+
 2.Abrir o ficheiro alarme.py  
+
 3.F5  
 
 #### Hardware  
