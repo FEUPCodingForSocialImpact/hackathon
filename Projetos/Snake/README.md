@@ -1,6 +1,6 @@
 # Hackathon Cidade + Inteligente  
 
-### Jogo Snake
+### Snake
 
 Jogo Snake que utiliza o display e o Joystick do Sense Hat.
   
