@@ -9,7 +9,7 @@ Relógio e despertador
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |Daniel Sousa  |[mail](mailto:chocaplikes@gmail.com)  |  
 |Diogo Martins  |[mail](mailto:diogomartins3000@hotmail.com)  |  
 |Francisco Costa  |[mail](mailto:xico.costa@outlook.com)  |  
@@ -24,14 +24,14 @@ Relógio e despertador
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Raspberry Pi  |[Ver aqui](https://www.raspberrypi.org/)  |  
 |SenseHat  |[Ver aqui](https://www.raspberrypi.org/?s=sense+hat)  |  
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|   
 |python |[Ver aqui](https://www.python.org/)  |  
   
 ***  
