@@ -9,7 +9,7 @@ Uma casa inteligente serve para facilitar a vida das pessoas, fazendo com que el
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |Luísa Figueiredo|[Email](mailto:luisa.rodrigues.figueiredo@gmail.com)| 
 |Matilde Dias|[Email](mailto:anamatildedias@hotmail.com)|  
 |João Ribeiro |[Email](mailto:joao_12fevereiro@hotmail.com)|  
@@ -25,14 +25,14 @@ Uma casa inteligente serve para facilitar a vida das pessoas, fazendo com que el
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|---|---|   
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 |Sense HAT  | [Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|  
 |Python  |[Ver aqui](https://www.python.org/)  |  
 
 
