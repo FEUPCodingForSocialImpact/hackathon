@@ -9,7 +9,7 @@ Programa que controla uma casa inteligente com diversas funcionalidades, passand
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---| 
 |Beatriz Gamboa Pereira  |[Email](beatrizgpereira@gmail.com)  |  
 |Inês Castro de Macedo  |[Email](necas.macedo1@live.com.pt)  |  
 |Leonor Martins de Sousa  |[Email](leonormsousa@sapo.pt)  |  
@@ -24,13 +24,13 @@ Programa que controla uma casa inteligente com diversas funcionalidades, passand
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|  
 |XXX  |[Ver aqui](http://www.xxx.yyy)  |  
 
 
