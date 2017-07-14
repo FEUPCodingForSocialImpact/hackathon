@@ -25,7 +25,7 @@ Sistema de segurança
 
 |Nome  |Link  |  
 |---|---|  
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 |SenseHat  |[Ver aqui](https://www.raspberrypi.org/?s=sense+hat)  |
 
 #### Software  
