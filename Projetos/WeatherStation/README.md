@@ -18,9 +18,9 @@ Esta "app" permite-nos obter informações meteriológicas diversas, como a temp
 
 ### Instruções
 
-1.Abrir os ficheiros Final_State_tilting_pages.py e screen.gif 
+1. Abrir os ficheiros Final_State_tilting_pages.py e screen.gif 
 
-2.Colocar ficheios no ambiente de trabalho ou numa pasta comum
+2. Colocar ficheios no ambiente de trabalho ou numa pasta comum
 
 ### Hardware
 
@@ -38,3 +38,10 @@ Esta "app" permite-nos obter informações meteriológicas diversas, como a temp
 |Guizero|[Ver aqui](https://lawsie.github.io/guizero/) |
 
 
+***  
+[![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
+[**Coding 4 Kids**](http://coding4kids.github.io/coding4kids/)  
+Para mais informações [contacte-me](mailto:nunofilipesantos@gmail.com).  
+[![Creative Commons Attribution-ShareAlike 4.0 International License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
+This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License**.  
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.  
