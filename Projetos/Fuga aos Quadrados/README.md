@@ -2,7 +2,7 @@
 
 ### Fuga aos Quadrados
 
-"Fuga aos quadrados é um jogo em que o principal objetivo é fugir dos inimigos. Tal como em todos os jogos, deves tentar bater o teu próprio highsco
+Fuga aos quadrados é um jogo em que o principal objetivo é fugir dos inimigos. Tal como em todos os jogos, deves tentar bater o teu próprio highscore
 ##### [Vídeo aqui](https://mega.nz/#!xj51nJwQ!30GYYYyTKSvmpJ4udSf1XlxQSRbzzjRUFjaJpxKT4uM)
 ##### [Musica aqui](https://mega.nz/#!proRzDpT!l701fSu8KYdAe1rUFBzttGzWTQx-l4aAoSSwVd4mv08)
 Descarregar tambem a musica e por na pasta do projeto
