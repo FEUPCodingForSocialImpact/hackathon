@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
 
 ### iPantry
 
@@ -13,7 +13,7 @@ A partir de agora, terá a sua despensa na ponta dos dedos!
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |Eduardo Teixeira  |[Email](mailto:eduardo.r.teixeira@gmail.com)  |  
 |João Lucas  |[Email](mailto:joaolucassilvamartins@gmail.com)  |  
 |Rui Pinto  |[Email](mailto:ruipinto02@hotmail.com)  |  
@@ -31,13 +31,13 @@ A partir de agora, terá a sua despensa na ponta dos dedos!
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|---|---|  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |MySql  |[Ver aqui](https://www.mysql.com/)  |  
 |Tkinter  |[Ver aqui](http://www.tutorialspoint.com/python/python_gui_programming.htm)  |  
 
