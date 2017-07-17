@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
 
 ### Piscina Inteligente  
 
@@ -9,7 +9,7 @@ A nossa aplicação foi criada para permitir ao utilizador controlar totalmente 
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|   
 |Diogo Nunes  |[Email](mailto:alex.diogo13@hotmail.com)  |  
 |Diogo Oliveira  |[Email](mailto:diogo.joao.1999@gmail.com)  |  
 |Pedro Oliveira  |[Email](mailto:pedro_naldinho@hotmail.com)  |  
@@ -27,14 +27,14 @@ A nossa aplicação foi criada para permitir ao utilizador controlar totalmente 
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)    |  
+|---|---|  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)    |  
 |Sense Hat  |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)    |  
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|  
 |XXX  |[Ver aqui](http://www.xxx.yyy)  |  
 
 
