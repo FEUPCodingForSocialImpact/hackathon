@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
 
 ### Smartjetas
 
@@ -9,7 +9,7 @@
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |André Ribeiro  |[Email](mailto:erdna7474@gmail.com)  |  
 |Gonçalo Silva |[Email](mailto:game4living@gmail.com)  |  
 |João Melo |[Email](mailto:joaonfmelo@gmail.com)  |  
@@ -25,13 +25,13 @@
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
-|Sense hat  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Sense hat  |[Ver aqui](http://www.raspberrypi.org)  |  
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|   
 |Python 3 |[Ver aqui](http://www.xxx.yyy)  |  
 
 
