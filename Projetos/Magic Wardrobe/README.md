@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
   
 ### Magic Wardrobe 
   
@@ -9,7 +9,7 @@ Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a 
 #### Autores  
   
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|  
 |Filipa Pimentel  |[Filipa](fifpimentel@gmail.com)  |  
 |Guilherme Guedes |[Guilherme](guilhermegog@gmail.com)  |  
 |Luís Lopes Cardoso |[Luís](luislcardoso2000@gmail.com)  |  
@@ -25,7 +25,7 @@ Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a 
 #### Hardware  
   
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Raspberry Pi 3|[Ver aqui](https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/)  |  
 |SenseHat|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |  
  
@@ -33,7 +33,7 @@ Esta "app" permite-nos ter o nosso inventário de roupas organizado consoante a 
 #### Software  
   
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |SenseHat software|[Ver aqui](http://pythonhosted.org/sense-hat/)  |  
 |Python |[Ver aqui](https://www.python.org/)  |  
   
