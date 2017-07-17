@@ -9,7 +9,7 @@
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|   
 |Pedro Miranda  |[Email](mailto:pepepmiranda@hotmail.com)  |  
 |Vítor Silva  |[Email](mailto:vitortavaressilva8@sapo.pt)  |  
 |Armando Rodrigues  |[Email](mailto:zearmando2000@gmail.com)  |  
