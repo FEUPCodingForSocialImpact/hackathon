@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
 
 ### Parque Inteligente
 
@@ -9,7 +9,7 @@
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |André Gomes|[Email](mailto:andremsgomes@gmail.com)  |  
 |Diogo Silva|[Email](mailto:diogo0408@gmail.com)  |  
 |Bruno Díniz  |[Email](mailto:brunofilipediniz88@gmail.com)  |  
@@ -26,14 +26,14 @@
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Raspberry Pi 3  |[Ver aqui] https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/  |
 |Sense Hat Hardware | [Ver aqui] https://www.raspberrypi.org/products/sense-hat/ |
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Python 3 | [Ver aqui] http://pythonhosted.org/sense-hat/  |
 |Sense Hat | [Ver aqui] https://www.python.org/ |
 
