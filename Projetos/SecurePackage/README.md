@@ -1,4 +1,4 @@
-﻿#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
 
 ### SecurePackage
 Secure Package é uma aplicação para Raspeberry Pi que tem como objetivo avisar o 
@@ -24,7 +24,7 @@ todos, ou seja , para o comprador, para o vendedor e para o fabricante.
 #### Autores  
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |Bruno Marques |[Email](mailto:brunof.samarques@gmail.com)  |  
 |Manuel |[Email](mailto:manueldeoliveiramateus@gmail.com)  |  
 |Beatriz |[Email](mailto:tiz.cr@hotmail.com)  |  
@@ -41,8 +41,8 @@ todos, ou seja , para o comprador, para o vendedor e para o fabricante.
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |
+|---|---|    
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |
 |Sense HAT |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |
   
 
