@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
 
 ### SIM City
 
@@ -26,12 +26,12 @@
 
 |Nome  |Link  |  
 |SenseHAT|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|  
 |Python 3  |[Ver aqui](https://www.python.org/download/releases/3.0/)  |  
 
 
