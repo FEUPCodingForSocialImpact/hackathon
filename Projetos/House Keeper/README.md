@@ -21,7 +21,6 @@ Com este projeto pretendemos criar uma casa inteligente às nossas medidas. Cons
 1. Depois defenir o modo(relógio;automático;manual).  
 1. Abrir o ficheiro lista de musicas e depois escolher a musica pretendida.   
 1. Abrir o ficheiro graragem e executar o comando, depois clicar para baixo no joystick para fechar o portão da garagem, clicar para cima para abrir. Abrir o ficheiro da rega para ligar e desligar a rega.  
-
 1.Abrir os ficheiro assima asinalados e seguir as instruções.  
 
 #### Hardware  
