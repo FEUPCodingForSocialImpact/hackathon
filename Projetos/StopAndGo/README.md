@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
   
 ### Stop & Go  
   
@@ -9,7 +9,7 @@ Inicialmente, o projeto Stop&Go foi criado com o principal intuito de permitir a
 #### Autores  
   
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|    
 |André Santos  |[Email](mailto:pulgasantos2000@gmail.com)  |  
 |Daniel Lages  |[Email](mailto:onlinefttj@gmail.com)  |  
 |João Machado  |[Email](mailto:macjoao@live.com.pt)  |  
@@ -24,13 +24,13 @@ Inicialmente, o projeto Stop&Go foi criado com o principal intuito de permitir a
 #### Hardware  
   
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Lego Mindstorm  |[Ver aqui](http://www.lego.com/en-us/mindstorms/?domainredir=mindstorms.lego.com)  |  
     
 #### Software  
   
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|   
 |Lego Mindstorm IDE  |[Ver aqui](http://www.lego.com/en-us/mindstorms/downloads)  |  
   
   
