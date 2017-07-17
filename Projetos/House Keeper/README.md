@@ -1,4 +1,4 @@
-#Hackathon Cidade + Inteligente  
+# Hackathon Cidade + Inteligente  
   
 ### House Keeper    
 
@@ -9,7 +9,7 @@ Com este projeto pretendemos criar uma casa inteligente às nossas medidas. Cons
 #### Nomes    
 
 |Nome  |E-mail  |  
-|---|---|---|    
+|---|---|   
 |Jorge Alves  |[aluno1](mailto:jorge.alves425@gmail.com)  |  
 |Juliana Assis |[aluno2](mailto:juliana.assisoliveira@gmail.com)  |  
 |Mário Taveira  |[aluno3](mailto:mariotaveira2000@gmail.com)  |  
@@ -27,14 +27,14 @@ Abrir o ficheiro graragem e executar o comando, depois clicar para baixo no joys
 #### Hardware  
 
 |Nome  |Link  |    
-|---|---|---|    
+|---|---|  
 |Raspberry Pi 3 |[Ver aqui](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)  |    
 |sensehat |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |    
 
 #### Software  
 
 |Nome  |Link  |  
-|---|---|---|    
+|---|---|    
 |Python  |[Ver aqui](https://www.python.org/)  |  
 
 ***  
