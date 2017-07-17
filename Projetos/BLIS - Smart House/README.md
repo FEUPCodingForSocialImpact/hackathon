@@ -1,4 +1,4 @@
-# Hackathon Cidade + Inteligente  
+ Hackathon Cidade + Inteligente  
 
 ### BLIS - Smart House
 
@@ -25,7 +25,7 @@ Programa que controla uma casa inteligente com diversas funcionalidades, passand
 
 |Nome  |Link  |  
 |---|---|
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 
 #### Software  
 
