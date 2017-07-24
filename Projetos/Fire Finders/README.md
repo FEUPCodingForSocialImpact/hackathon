@@ -17,10 +17,9 @@
 
 #### Instruções
 
-1. Usar SenseHat
-2. Descarregar o ficheiro fireFinders.py
-3. Instalar guizero
-4. Correr...
+1. Descarregar o ficheiro fireFinders.py
+1. Instalar guizero
+1. Correr...
 
 #### Hardware  
 

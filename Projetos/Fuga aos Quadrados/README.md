@@ -1,10 +1,10 @@
-# Hackathon : Ideias Inteligentes 
+﻿# Hackathon : Ideias Inteligentes 
 
 ### Fuga aos Quadrados
 
 Fuga aos quadrados é um jogo em que o principal objetivo é fugir dos inimigos. Tal como em todos os jogos, deves tentar bater o teu próprio highscore
-##### [Vídeo aqui](https://mega.nz/#!xj51nJwQ!30GYYYyTKSvmpJ4udSf1XlxQSRbzzjRUFjaJpxKT4uM)
-##### [Musica aqui](https://mega.nz/#!proRzDpT!l701fSu8KYdAe1rUFBzttGzWTQx-l4aAoSSwVd4mv08)
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7VnNUZXJrSnFEczQ/view?usp=sharing/view?usp=sharing?raw=true)
+##### [Musica aqui]("Código/Audio/Radioactive Instrumental 3 minutes.mp3"/view?usp=sharing?raw=true)
 Descarregar tambem a musica e por na pasta do projeto
   
 #### Autores  
