@@ -4,7 +4,7 @@
 
 Fuga aos quadrados é um jogo em que o principal objetivo é fugir dos inimigos. Tal como em todos os jogos, deves tentar bater o teu próprio highscore
 ##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7VnNUZXJrSnFEczQ/view?usp=sharing/view?usp=sharing?raw=true)
-##### [Musica aqui]("Código/Audio/Radioactive Instrumental 3 minutes.mp3"/view?usp=sharing?raw=true)
+##### [Musica aqui](Código/Audio/Radioactive Instrumental 3 minutes.mp3/view?usp=sharing?raw=true)
 Descarregar tambem a musica e por na pasta do projeto
   
 #### Autores  
