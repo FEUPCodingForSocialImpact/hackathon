@@ -1,10 +1,10 @@
-# Hackathon: Ideias Inteligentes  
+﻿# Hackathon: Ideias Inteligentes  
 
 ### Fire Finder
 
    Este projeto tem como objetivo final encontrar incêndios, comunicando de imediato com as autoridades, prevenindo assim a alastração, ajudando a diminuir o perigo e dimensão destas catástrofes naturais, apenas usando um Raspberry Pi 3 e um drone.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7dUd2NmR5QXZ2aEk/view?usp=sharing?raw=true)  
   
 #### Autores  
 
@@ -18,9 +18,9 @@
 #### Instruções
 
 1. Usar SenseHat
-2 Descarregar o ficheiro fireFinders.py
-3 Instalar guizero
-4 Correr...
+2. Descarregar o ficheiro fireFinders.py
+3. Instalar guizero
+4. Correr...
 
 #### Hardware  
 

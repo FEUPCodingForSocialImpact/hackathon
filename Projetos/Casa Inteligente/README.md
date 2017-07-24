@@ -1,10 +1,10 @@
-# Hackathon Cidade + Inteligente  
+﻿# Hackathon Cidade + Inteligente  
 
 ### Casa Inteligente
 
 Uma casa inteligente serve para facilitar a vida das pessoas, fazendo com que elas tenham que realizar menos tarefas no dia a dia, pois esta aplicação faz isso por elas, programando horários de diversos eletrodomésticos, como máquinas de lavar roupa e louça, aquecedores e muito mais.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](Demo/casainteligente.MOV?raw=true)  
   
 #### Autores  
 
