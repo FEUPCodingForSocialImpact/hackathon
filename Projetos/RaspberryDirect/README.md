@@ -1,10 +1,10 @@
-# Hackathon Ideias inteligentes
+﻿# Hackathon Ideias inteligentes
 
 ### Raspberry Direct-IFP
 
   The best security device ever.
   
-##### [/media/pi/PEN/raspberry direct](Demo/video.mp4?raw=true)  
+##### [Vídeo Aqui](https://drive.google.com/file/d/0B_pUAOPBkih7d0hveTVCbHdzV2c/view?usp=sharing)  
   
 #### Autores  
 
@@ -25,8 +25,8 @@
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
-|Sense Hat|
-|piCamera|
+|Sense Hat|[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |
+|piCamera|  |
 
 #### Software  
 

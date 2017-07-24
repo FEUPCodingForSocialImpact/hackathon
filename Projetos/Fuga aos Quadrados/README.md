@@ -1,4 +1,4 @@
-﻿# Hackathon : Ideias Inteligentes 
+﻿# Hackathon Ideias Inteligentes 
 
 ### Fuga aos Quadrados
 

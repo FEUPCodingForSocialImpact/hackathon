@@ -1,4 +1,4 @@
-# Hackathon Cidade + Inteligente  
+﻿# Hackathon Cidade + Inteligente  
 
 ### Smartjetas
 
@@ -26,7 +26,7 @@
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 |Sense hat  |[Ver aqui](http://www.raspberrypi.org)  |  
 #### Software  
 

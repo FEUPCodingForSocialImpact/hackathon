@@ -1,10 +1,10 @@
-# Hackathon: Ideias Inteligentes
+﻿# Hackathon: Ideias Inteligentes
 
 ### PIMP - Pi Interactive Music Player
 
 Coluna que funciona por controlos de voz. 
   
-##### [Vídeo aqui](https://mega.nz/#!JCwF3DqC!e_CugMPBB828hk51YaDd6qASH3GcUaUWuOhbDd87C9s)
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7NG52TDFyUHViNTA/view?usp=sharing)
   
 #### Autores  
 

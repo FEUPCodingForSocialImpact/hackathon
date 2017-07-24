@@ -1,10 +1,10 @@
-# Hackathon Ideias Inteligentes  
+﻿# Hackathon Ideias Inteligentes  
 
 ### rPet
 
 Animal Virtual
   
-##### [Vídeo aqui](https://mega.nz/#!oiowRIYK!5T6S0tHuEEh76iBeNTy91bZ0NyOYUHX4tWPmb-u-7L8)  
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7WVNPOHZoN3FvS0k/view?usp=sharing)  
   
 #### Autores  
 

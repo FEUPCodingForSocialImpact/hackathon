@@ -1,10 +1,10 @@
-# Hackathon Ideias Inteligentes  
+﻿# Hackathon Ideias Inteligentes  
 
 ### Snake
 
 Jogo Snake que utiliza o display e o Joystick do Sense Hat.
   
-##### [Vídeo aqui](https://mega.nz/#!ZKxyDaSQ!uTOivNMnhUneOCudXXQHWIS4ZvXQpDNvJpn-00BzzKY)  
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7eUhJNGgwZDJWY0k/view?usp=sharing)  
   
 #### Autores  
 

@@ -1,8 +1,11 @@
-# Hackathon Ideias Inteligentes 
+﻿# Hackathon Ideias Inteligentes 
 
 ### Nivelador
 
 Sistema que indica a inclinação de uma superfície através de um sistema de setas coloridas e som
+
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7YkpHclBiMndDR1k/view?usp=sharing)
+##### [Musica aqui](Código/Audio/Alien_AlarmDrum.wav?raw=true)
   
 #### Autores  
 
@@ -21,18 +24,6 @@ Sistema que indica a inclinação de uma superfície através de um sistema de s
 4. Alterar a localização do ficheiro de som no importante.py de modo a que coincida com a localização do primeiro depois de descarregado 
 5. F5
 6. Clicar em start
-
-#### Vídeo
-|Nome |Link |
-|---    |---    |
-|NIVELADOR2.0  |[Ver aqui](http://youtu.be/Kym92POFxzE)
-
-#### Ficheiro de som
-
-|Nome   |Link   |
-|---  |---  |
-|Alien_Alarm_Drum |[Ver aqui](https://mega.nz/#!Y7pmwJ7D)
-
 
 #### Hardware  
 

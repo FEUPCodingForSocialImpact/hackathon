@@ -1,10 +1,10 @@
-#Hackathon Ideias Inteligente  
+﻿# Hackathon Ideias Inteligente  
 
 ### TB
 
    Agenda que adiciona o nº de eventos pretendidos pelo utilizador, com um alarme incluido.
   
-##### [Vídeo aqui](https://mega.nz/#!ApVkyRyA!fokM9XEMmodHT0HH-fiCtZfsmSe2y45oU6Od3wn7s8o?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7WVd6MDZPRFZ3NWc/view?usp=sharing)  
   
 #### Autores  
 
@@ -28,7 +28,7 @@
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
 |Sense Hat  |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  | 
 
 #### Software  

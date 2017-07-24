@@ -1,11 +1,10 @@
-# MMI-UJr
-# Hackathon Ideias Inteligentes  
+﻿# Hackathon Ideias Inteligentes  
 
 ### MMI (Mapa Meteriológico Inteligente)
 
-MMI é um projeto  que a partir de estações metereológicas indica a temperatura, pressão atmosférica e humidade em determinadas zonas de Portugal, tanto no continente como nas ilhas e com o painel LED do raspberry pi podemos representar as diferentes temperaturas utilizando varias cores. Também pode guardar os dados e fazer gráficos.  
-)
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+MMI é um projeto  que a partir de estações metereológicas indica a temperatura, pressão atmosférica e humidade em determinadas zonas de Portugal, tanto no continente como nas ilhas e com o painel LED do raspberry pi podemos representar as diferentes temperaturas utilizando varias cores. Também pode guardar os dados e fazer gráficos.
+
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7ajdFZnFVN0dpN2c/view?usp=sharing)  
   
 #### Autores  
 
@@ -18,9 +17,9 @@ João Feijão  |[Email](jm.feijao@hotmail.com) |
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro MMI.py
+2. Abrir o ficheiro MMI.py
+3. Carregar F5
 
 #### Hardware  
 

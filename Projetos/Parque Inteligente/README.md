@@ -1,4 +1,4 @@
-# Hackathon Cidade + Inteligente  
+﻿# Hackathon Cidade + Inteligente  
 
 ### Parque Inteligente
 
@@ -27,15 +27,15 @@
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui] https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/  |
-|Sense Hat Hardware | [Ver aqui] https://www.raspberrypi.org/products/sense-hat/ |
+|Raspberry Pi 3  |[Ver aqui](https://www.raspberrypi.org/blog/raspberry-pi-3-on-sale/)  |
+|Sense Hat Hardware | [Ver aqui](https://www.raspberrypi.org/products/sense-hat/) |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|Python 3 | [Ver aqui] http://pythonhosted.org/sense-hat/  |
-|Sense Hat | [Ver aqui] https://www.python.org/ |
+|Python 3 | [Ver aqui](http://pythonhosted.org/sense-hat/)  |
+|Sense Hat | [Ver aqui](https://www.python.org/) |
 
 
 ***  

@@ -1,4 +1,4 @@
-﻿# Hackathon: Ideias Inteligentes  
+﻿# Hackathon Ideias Inteligentes  
 
 ### Fire Finder
 

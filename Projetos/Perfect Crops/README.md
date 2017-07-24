@@ -1,17 +1,10 @@
-  # Hackathon: Ideias Inteligentes
+﻿# Hackathon Ideias Inteligentes
 
-### Nome...
-
-   Perfect Crops
+### Perfect Crops
    
-    Com um simples Raspberry Pi, usamos os sensores de temperatura e humidade
-para regular as condições ideais de uma determinada colheita numa estufa.
-  Através de um menu interativo, que utiliza uma matriz de pixels 8x8 e
-sensores de movimento, podemos escolher uma opção do menu e selecioná-la
-premindo o joystick. Ao escolher, o programa vai definir as condições ideais
-para essa plantação escolhida.
+    Com um simples Raspberry Pi, usamos os sensores de temperatura e humidade para regular as condições ideais de uma determinada colheita numa estufa. Através de um menu interativo, que utiliza uma matriz de pixels 8x8 e sensores de movimento, podemos escolher uma opção do menu e selecioná-la premindo o joystick. Ao escolher, o programa vai definir as condições ideais para essa plantação escolhida.
 
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/0B_pUAOPBkih7RTJ3eGRUT09QNHc/view?usp=sharing)  
   
   
 #### Autores  
@@ -41,7 +34,7 @@ para essa plantação escolhida.
 
 |Nome  |  
 |---|   
-|SenseHatSoftware|
+|SenseHatSoftware|  |
 |Python |  [Ver aqui](https://www.python.org/)   |
 
  
