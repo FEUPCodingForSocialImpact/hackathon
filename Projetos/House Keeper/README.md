@@ -1,10 +1,10 @@
-# Hackathon Cidade + Inteligente  
+﻿# Hackathon Cidade + Inteligente  
   
 ### House Keeper    
 
 Com este projeto pretendemos criar uma casa inteligente às nossas medidas. Conseguimos controlar as persianas, o portão da garagem, o sistema de rega e o sistema de som da casa através de três Raspberry Pi 3 juntamente com SenseHat para simular as variadas funções, como, por exemplo, abrir/fechar e ligar/desligar.  
 
-[Vídeo aqui](Demo/HouseKeeper.MOV?raw=true)  
+[Vídeo aqui](Demo/HouseKeeper.mov/view?usp=sharing?raw=true)  
 
 #### Nomes    
 
@@ -28,7 +28,7 @@ Com este projeto pretendemos criar uma casa inteligente às nossas medidas. Cons
 |Nome  |Link  |    
 |---|---|  
 |Raspberry Pi 3 |[Ver aqui](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)  |    
-|sensehat |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |    
+|SenseHat |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |    
 
 #### Software  
 

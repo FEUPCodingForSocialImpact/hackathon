@@ -27,7 +27,7 @@ Descarregar tambem a musica e por na pasta do projeto
 |Nome  |Link  |  
 |---|---|   
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberry pi.org)  |  
-|Sense HAT  | [Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |
+|SenseHat  | [Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |
 
 #### Software  
 

@@ -33,7 +33,7 @@
 |Nome  |Link  |  
 |---|---|    
 |Python  |https://www.python.com |
-|SenseHat Software|
+|SenseHat Software| |
 
 
 ***  
