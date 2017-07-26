@@ -2,10 +2,10 @@
   
 #### Listagem  
 
-|Nome  |Descrição  |Link  |Ano |Projecto  |  
+|Nome  |Descrição  |Link  |Ano | 
 |---|---|---|---|    
-|D.Y.I.  |Sistema de segurança  |[Ver aqui](https://github.com/Coding4Kids/cidadeinteligente/tree/master/Projetos/Alarme)  |2016  |Cidade + Inteligente  |  
-|BLIS - Smart House  |Programa que controla uma casa inteligente com diversas funcionalidades, passando pela temperatura, persianas, portas, janelas, sistema de som, televisão e luzes.  |[Ver aqui](https://github.com/Coding4Kids/cidadeinteligente/tree/master/Projetos/BLIS%20-%20Smart%20House)  |2016  |Cidade + Inteligente  |  
+|D.Y.I.  |Sistema de segurança  |[Ver aqui](https://github.com/Coding4Kids/cidadeinteligente/tree/master/Projetos/Alarme)  |2016 - Cidade + Inteligente  |  
+|BLIS - Smart House  |Programa que controla uma casa inteligente com diversas funcionalidades, passando pela temperatura, persianas, portas, janelas, sistema de som, televisão e luzes.  |[Ver aqui](https://github.com/Coding4Kids/cidadeinteligente/tree/master/Projetos/BLIS%20-%20Smart%20House)  |2016 - Cidade + Inteligente  |  
 |Casa Inteligente  |Uma casa inteligente serve para facilitar a vida das pessoas, fazendo com que elas tenham que realizar menos tarefas no dia a dia.  |[Ver aqui](https://github.com/Coding4Kids/cidadeinteligente/tree/master/Projetos/Casa%20Inteligente)  |2016 - Cidade + Inteligente  |  
 |Despertador  |Relógio e despertador  |[Ver aqui](https://github.com/Coding4Kids/cidadeinteligente/tree/master/Projetos/Despertador%20)  |2016 - Cidade + Inteligente  |   
 |Fire Finders  |Controla um "drone" que tem como objectivo reportar os incêndios que encontra |[Ver aqui](https://github.com/Coding4Kids/hackathon/tree/master/Projetos/Fire%20Finders)  |2017 - Ideias Inteligentes  |  
