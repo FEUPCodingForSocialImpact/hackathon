@@ -4,7 +4,7 @@
 
    Mandar mensagens do teu RPi
   
-##### [Vídeo aqui](Demo/https://drive.google.com/open?id=0B_pUAOPBkih7S0MzbkNkQ01fbkE)  
+##### [Vídeo aqui](https://drive.google.com/open?id=0B_pUAOPBkih7S0MzbkNkQ01fbkE)  
   
 #### Autores  
 
