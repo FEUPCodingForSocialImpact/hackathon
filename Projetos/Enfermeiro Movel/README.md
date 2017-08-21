@@ -17,7 +17,7 @@
 #### Instruções
 
 1. Realizar download da pasta que contem o código para dois computadores ligados na mesma rede
-2. Abrir o ficheiro pitelmo com o IDLE de python
+2. Abrir o ficheiro `pitelmo.py` com o IDLE de python
 3. Abrir o terminal e escrever `ipconfig`
 4. Para cada computador escrever na variavel `UDP_IP_Meu` o ip do computador
 5. Na variavel `UDP_IP_OD` escrever o ip do computador com o qual vai comunicar
