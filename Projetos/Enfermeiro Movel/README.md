@@ -10,9 +10,9 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Marina Pimentel  |[Email](mailto:temp@gmail.com)  |  
-|Telmo Botelho  |[Email](mailto:temp@gmail.com)  |  
-|Vasco Macedo  |[Email](mailto:temp@gmail.com)  |  
+|Marina Pimentel  |[Email](mailto:marinajpimentel@gmail.com)  |  
+|Telmo Botelho  |[Email](mailto:telmocostabotelho2000@gmail.com)  |  
+|Vasco Macedo  |[Email](mailto:vasquinhomacedo@hotmail.com)  |  
 
 #### Instruções
 
