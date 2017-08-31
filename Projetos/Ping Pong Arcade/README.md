@@ -10,10 +10,10 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Bruno Mendes  |[Email](mailto:temp@gmail.com)  |  
-|Diogo Pires  |[Email](mailto:temp@gmail.com)  |  
-|Maria Varanda  |[Email](mailto:temp@gmail.com)  |  
-|Gelson Almeida  |[Email](mailto:temp@gmail.com)  |  
+|Bruno Mendes  |[Email](mailto:mincemeat72@gmail.com)  |  
+|Diogo Pires  |[Email](mailto:diogobpires@gmail.com)  |  
+|Maria Varanda  |[Email](mailto:brod56@sapo.pt)  |  
+|Gelson Almeida  |[Email](mailto:mvaranda88@gmail.com)  |  
 
 #### Instruções
 
