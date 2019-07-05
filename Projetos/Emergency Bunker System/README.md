@@ -4,7 +4,7 @@
 
    Simulador de sistema de emergências com alertas para incêndios, alerta para terramotos, envio de pedidos de ajuda, enviar mensagens por código morse. Consegue ainda tocar a música do Star Wars e tem 3 jogos disponiveis: Coin Flipper, Flappy Bird and Rock, Paper and Scissors.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1SKkqe7AE9lPas-GsmDcZcrE2OShySk2R/view?usp=sharing)  
   
 #### Autores  
 
