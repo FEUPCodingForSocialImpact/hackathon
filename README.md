@@ -1,6 +1,6 @@
 # Hackathon Universidade Júnior
 
-Visita a [WIKI](https://github.com/Coding4Kids/hackathon/wiki)  
+Visita a [WIKI](https://codingforsocialimpact.fe.up.pt/wiki/doku.php/programacao:ujunior:hackathon:start)  
   
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
