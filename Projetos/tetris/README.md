@@ -4,7 +4,7 @@
 
    Este jogo é uma versão de uma das maiores franquias de jogos da história para Raspberry Pi utilizando o micro:bit como controlo.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1kO8iBicI-9kTeyrBGONudJC02zB0z6qK/view?usp=sharing)  
   
 #### Autores  
 
