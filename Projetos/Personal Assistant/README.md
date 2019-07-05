@@ -1,10 +1,10 @@
 # Hackathon Ideias Inteligentes
 
-### Personal Assitant
+### Personal Assistant
 
    Já precisaste de ajuda nas tarefas do quotidiano? Agora tens o Personal Assistant para te ajudar, para além de muitos outros tem calaculadora, termómetro, contador de passos, e até joguinhos para te entreteres!
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1BpJNLbG7RFXVLOzWU7D8yIiDDxX24tMH/view?usp=sharing)  
   
 #### Autores  
 
