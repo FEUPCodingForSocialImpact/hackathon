@@ -4,7 +4,7 @@
 
    Neste projeto,  recriámos o clássico Flappy Bird, em que projetámos o jogo no Sense HAT do RPi e o controlámos através do Micro:bit.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/17JsW1UIoGewhB2w2vRsTXCJ6esWV1bnL/view?usp=sharing)  
   
 #### Autores  
 
