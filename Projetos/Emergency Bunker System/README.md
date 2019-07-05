@@ -1,6 +1,6 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Emergency Bunker System
 
    Descrição...
   
@@ -10,28 +10,33 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
+|Ana Almeida   |[Email](ana.margarida2004@gmail.com)  |  
+|Diogo Pereira  |[Email](diogofcpereira@gmail.com)  |  
+|Luís Santos  |[Email](luis_santos2003@hotmail.com)  |  
 |Nome4  |[Email](mailto:nome4@live.com.pt)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros
+2. Importar o ficheiro 'Micro:Bit Program'
+3. Correr o ficheiro python
+4. Testar todas as funcionalidades
 
-#### Hardware  
+#### Hardware
 
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|SenseHat  |[Ver aqui](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)  |  
+|Micro:Bit  |[Ver aqui](https://www.microbit.org/)  |  
+
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python 3  |[Ver aqui](https://www.python.org/)  |  
+|MakeCode Editor |[Ver aqui](https://www.microsoft.com/en-us/makecode)  |  
 
 
 ***  
