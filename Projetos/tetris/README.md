@@ -30,8 +30,8 @@
 
 #### Hardware  
 
-|Nome  |Link  |  
-|---|---|    
+|Nome  | 
+|---|  
 |Raspberry Pi 3 |
 |Micro:bit |
 
