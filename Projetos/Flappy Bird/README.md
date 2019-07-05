@@ -16,9 +16,9 @@
 
 #### Instruções
 
-1. Descarregar o ficheiro Flappy_bird.py e guardá-lo e descarregar o ficheiro Microbit.hex e aplicá-lo no Micro:bit
-2. Abrir o ficheiro Flappy_bird.py
-3. Correr o programa, controlando o pássaro com os dois botões do Micro:bit e disfrutar
+1. Descarregar o ficheiro Flappy_bird.py e guardá-lo e descarregar o ficheiro Microbit.hex e aplicá-lo no Micro:bit.
+2. Abrir o ficheiro Flappy_bird.py.
+3. Correr o programa, controlando o pássaro com os dois botões do Micro:bit e disfrutar!
 
 #### Hardware  
 
