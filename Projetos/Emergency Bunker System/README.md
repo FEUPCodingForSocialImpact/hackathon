@@ -10,9 +10,9 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Ana Almeida   |[Email](ana.margarida2004@gmail.com)  |  
-|Diogo Pereira  |[Email](diogofcpereira@gmail.com)  |  
-|Luís Santos  |[Email](luis_santos2003@hotmail.com)  |  
+|Ana Almeida   |[Email] mailto:(ana.margarida2004@gmail.com)  |  
+|Diogo Pereira  |[Email]mailto:(diogofcpereira@gmail.com)  |  
+|Luís Santos  |[Email]mailto:(luis_santos2003@hotmail.com)  |  
 
 #### Instruções
 
