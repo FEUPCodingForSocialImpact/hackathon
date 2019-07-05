@@ -1,37 +1,41 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Emergency Bunker System
 
-   Descrição...
+   Simulador de sistema de emergências com alertas para incêndios, alerta para terramotos, envio de pedidos de ajuda, enviar mensagens por código morse. Consegue ainda tocar a música do Star Wars e tem 3 jogos disponiveis: Coin Flipper, Flappy Bird and Rock, Paper and Scissors.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1SKkqe7AE9lPas-GsmDcZcrE2OShySk2R/view?usp=sharing)  
   
 #### Autores  
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Ana Almeida   |[Email](mailto:ana.margarida2004@gmail.com)  |  
+|Diogo Pereira  |[Email](mailto:diogofcpereira@gmail.com) |  
+|Luís Santos  |[Email](mailto:luis_santos2003@hotmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros
+2. Importar o ficheiro 'Micro:Bit Program'
+3. Correr o ficheiro python
+4. Testar todas as funcionalidades
 
-#### Hardware  
+#### Hardware
 
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|SenseHat  |[Ver aqui](https://projects.raspberrypi.org/en/projects/getting-started-with-the-sense-hat)  |  
+|Micro:Bit  |[Ver aqui](https://www.microbit.org/)  |  
+
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python 3  |[Ver aqui](https://www.python.org/)  |  
+|MakeCode Editor |[Ver aqui](https://www.microsoft.com/en-us/makecode)  |  
 
 
 ***  
