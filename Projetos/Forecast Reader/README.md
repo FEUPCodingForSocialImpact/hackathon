@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Forecast Reader
 
-   Descrição...
+   Dispositivo que nos informa sobre as temperaturas máxima e mínima do próprio dia e a temperatura no momento de leitura; além disso, permite ver a humidade, a pressão atmosférica, assim como as horas. No micro:bit, é exibido um ícone que nos informa do estado de tempo num espaço de 3 horas (é possível usar os botões A ou B para mudar o espaço de 3 horas exibido).
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +10,32 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Eduardo Relha  |[Email](mailto:eduardorelha@gmail.com)  |  
+|Guilherme Serrão  |[Email](mailto:serraoguilherme@hotmail.com)  |  
+|Guilherme Teixeira  |[Email](mailto:eaglevision.gt@gmail.com)  |  
+|Rodrigo Teixeira  |[Email](mailto:rtroderick4@gmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros microbitmu.py e Weather.py.
+2. Abrir o ficheiro microbitmu.py com o MU e Weather.py com o Python 3.
+3. Correr o ficheiro microbitmu.py.
+4. Correr o ficheiro Weather.py.
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  | 
+|Sense HAT  |[Ver aqui](https://www.raspberrypi.org/documentation/hardware/sense-hat/)  |
+|Micro:bit  |[Ver aqui](https://www.microbit.org/)  |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python 3  |[Ver aqui](https://www.python.org/)  |  
+|Mu  |[Ver aqui](https://codewith.mu/)  |
 
 
 ***  
