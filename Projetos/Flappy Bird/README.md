@@ -1,37 +1,38 @@
-﻿# Hackathon Ideias Inteligentes
+# Hackathon Ideias Inteligentes
 
-### Nome...
+### Flappy Bird
 
-   Descrição...
+   Neste projeto,  recriámos o clássico Flappy Bird, em que projetámos o jogo no Sense HAT do RPi e o controlámos através do Micro:bit.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
 #### Autores  
 
-|Nome  |E-mail  |  
+|Nome  |E-mail  |
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Rodrigo Esteves  |[Email](mailto:estevesguigo@gmail.com)  |  
+|Gonçalo Dias  |[Email](mailto:gapmd2003@gmail.com)  |  
+|Pedro Alves  |[Email](mailto:pedromartinsalves26@gmail.com)  | 
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro Flappy_bird.py e guardá-lo e descarregar o ficheiro Microbit.hex e aplicá-lo no Micro:bit
+2. Abrir o ficheiro Flappy_bird.py
+3. Correr o programa, controlando o pássaro com os dois botões do Micro:bit e disfrutar
 
 #### Hardware  
 
 |Nome  |Link  |  
-|---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|---|---|
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |
+|Micro:bit  |[Ver aqui](https://microbit.org/)  |  
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python  |[Ver aqui](https://www.python.org/)  |
+|MakeCode |[Ver aqui](https://makecode.microbit.org/#) |
 
 
 ***  
@@ -40,4 +41,4 @@
 Para mais informações [contacte-nos](mailto:hello@codingforsocialimpact.org).  
 [![Creative Commons Attribution-ShareAlike 4.0 International License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License**.  
-To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.  
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
