@@ -2,7 +2,7 @@
 
 ### Emergency Bunker System
 
-   Descrição...
+   Simulador de sistema de emergências com alertas para incêndios, alerta para terramotos, envio de pedidos de ajuda, enviar mensagens por código morse. Consegue ainda tocar a música do Star Wars e tem 3 jogos disponiveis: Coin Flipper, Flappy Bird and Rock, Paper and Scissors.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -13,7 +13,6 @@
 |Ana Almeida   |[Email](ana.margarida2004@gmail.com)  |  
 |Diogo Pereira  |[Email](diogofcpereira@gmail.com)  |  
 |Luís Santos  |[Email](luis_santos2003@hotmail.com)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
 
 #### Instruções
 
