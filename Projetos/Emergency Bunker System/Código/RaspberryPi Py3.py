@@ -48,7 +48,7 @@ while True:
     if data=='HELP':                                                                                    #HElP
         s.write(format_string.format(data).encode('UTF-8'))
         print(data)
-        sense.show_message(data, text_colour=(0,0,255 ), back_colour=(0,255,0))
+        sense.show_message(data, text_colour=(0,0,255 ), back_colour=(0,0,0))
         s.write(format_string.format(y).encode('UTF-8'))
         k=(' ')
         t=0
@@ -103,8 +103,7 @@ while True:
         t=0
         if frase==['S', 'T', 'A', 'R', 'W', 'A', 'R', 'S']:                                             #Star Wars
             s.write(format_string.format(p).encode('UTF-8'))
-            sense.show_message((p,p,p), text_colour=(0,0,0), back_colour=(236,214,0))
-                
+            sense.show_message(p*3, text_colour=(0,0,0), back_colour=(236,214,0))
         elif frase==['G','A']:                                                                            #Games 
             s.write(format_string.format(v).encode('UTF-8'))
             sense.show_message(v, text_colour=(117,0,234), back_colour=(236,214,0))
@@ -136,10 +135,9 @@ while True:
                             X, X, X, X, X, X, X, X,
                             X, X, X, X, X, X, X, X
                             ]
-                        
                     sense.set_pixels(lights)
                 elif data=='RPS':                                                                                  #ROCK,PAPER OR SCISSORS                                         
-                    #sense.show_message('ROCK,PAPER OR SCISSORS', text_colour=(0,0,0), back_colour=(236,214,0))
+                    sense.show_message('R.P.S.', text_colour=(0,0,0), back_colour=(236,214,0))
                     data = s.readline().decode('UTF-8').rstrip()
                     if data=='R':              
                         lights = [
@@ -163,8 +161,7 @@ while True:
                             X, X, X, X, X, X, X, X,
                             X, X, X, X, X, X, X, X
                             ]
-                    else:
-                                        
+                    else:          
                         lights = [
                             X, X, X, O, O, O, X, X,
                             X, O, X, O, O, X, X, O,
@@ -183,7 +180,7 @@ while True:
                 else:
                     print(frase[i],end='')
             for i in range(len(frase)):
-                sense.show_message(frase[i], text_colour=(0,0,255), back_colour=(0,0,0))
+                sense.show_message(frase[i], text_colour=(0,0,255), back_colour=(0,255,0))
 
         frase=[]
         
