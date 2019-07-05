@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### TETRIS GAME
 
-   Descrição...
+   Este jogo é uma versão de uma das maiores franquias de jogos da história para Raspberry Pi utilizando o micro:bit como controlo.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,29 +10,37 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Pedro Nunes |[Email](mailto:pedro.afnunes@hotmail.com)  |  
+|Luana Santos |[Email](mailto:veigaluana8@gmail.com)  |  
+|Pedro Monteiro  |[Email](mailto:ampedro2003@gmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro TETRIS GAME
+2. Abrir o ficheiro com o Python 3
+3. Conectar o micro:bit ao Raspberry Pi
+4. Clicar em F5
+5. Comandos:
+      A - mover o bloco para a esquerda
+      B - mover o bloco para a direita
+      Agitar - rodar o bloco 90º no sentido horário
+6. Quando o jogo termina:
+      Inclinar o micro:bit para a esquerda para reiniciar o jogo
+      Inclinar o micro:bit para a direita para fechar o jogo
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Raspberry Pi 3 |
+|Micro:bit |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
-
+|Python 3 |[Ver aqui](https://www.python.org/) |  
+|Microsoft Makecode |[Ver aqui](https://makecode.microbit.org/) |  
 
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
