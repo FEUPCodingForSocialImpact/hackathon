@@ -4,7 +4,7 @@
 
    Dispositivo que nos informa sobre as temperaturas máxima e mínima do próprio dia e a temperatura no momento de leitura; além disso, permite ver a humidade, a pressão atmosférica, assim como as horas. No micro:bit, é exibido um ícone que nos informa do estado de tempo num espaço de 3 horas (é possível usar os botões A ou B para mudar o espaço de 3 horas exibido).
   
-##### [Vídeo aqui](Demo/hack19.mp4?raw=true)  
+##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
 #### Autores  
 
