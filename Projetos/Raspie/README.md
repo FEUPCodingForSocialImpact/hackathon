@@ -2,7 +2,7 @@
 
 ### Raspie
 
-   Virtual pet tão simples quanto um pode ser. Doggy boi 1 pixel thicc.
+   Este é o jogo em que te vais viciar! No jogo Raspie podes ter o teu próprio pet virtual! Podes a qualquer momento descobrir do que precisa, brincar com o Raspie, dar-lhe de comer, mantê-lo limpo e pô-lo a descansar. É só fazer download do jogo no teu Raspberry Pi e começares a divertir-te com o Raspie!
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
