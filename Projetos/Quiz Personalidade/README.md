@@ -8,7 +8,7 @@
 #### Autores  
 |Nome  |E-mail  |  
 |---|---|    
-|Beatriz  |[Email](mailto:biacarneiro2003@hotmail.com)  |  
+|Beatriz Carneiro  |[Email](mailto:biacarneiro2003@hotmail.com)  |  
 |José Oliveira  |[Email](mailto:email2@gmail.com)  |  
 |Mariana Castro  |[Email](mailto:marianamoreiracastro2003@gmail.com)  |  
 
