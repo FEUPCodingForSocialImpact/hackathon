@@ -10,9 +10,9 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Tiago Gouveia  |[Email](ti.gouveia21@gmail.com)  |  
-|Tomás Macedo  |[Email](tomasmacedo14@gmail.com)  |  
-|Inês Ferreira  |[Email](ines02ferreira@gmail.com)  |  
+|Tiago Gouveia  |[Email](mailto:ti.gouveia21@gmail.com)  |  
+|Tomás Macedo  |[Email](mailto:tomasmacedo14@gmail.com)  |  
+|Inês Ferreira  |[Email](mailto:ines02ferreira@gmail.com)  |  
 
 #### Instruções
 
