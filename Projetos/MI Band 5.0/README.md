@@ -4,7 +4,7 @@
 
    A MI Band 5.0, que tem como base um Micro Bit, é um dispositivo que consegue medir os passos, distância percorrida, calorias despendidas em função do seu peso durante o seu percurso. O seu display magnifíco de 25 LEDs possui também a capacidade de exibir a hora atual.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1jCcohzO7zuqvNM-8duEHoNbCh_T7C-pl/view?usp=sharing)  
   
 #### Autores  
 
