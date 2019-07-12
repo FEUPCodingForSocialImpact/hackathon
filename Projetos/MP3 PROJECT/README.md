@@ -10,9 +10,9 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Vasco Oliveira  |[Email](vascofilipeoliveira@gmail.com)  |  
-|Gustavo Martins  |[Email](gustavosamartins@gmail.com)  |  
-|Pedro Bruno  |[Email](pedropinhobruno@gmail.com)  |   
+|Vasco Oliveira  |[Email](mailto:vascofilipeoliveira@gmail.com)  |  
+|Gustavo Martins  |[Email](mailto:gustavosamartins@gmail.com)  |  
+|Pedro Bruno  |[Email](mailto:pedropinhobruno@gmail.com)  |   
 
 #### Instruções
 
