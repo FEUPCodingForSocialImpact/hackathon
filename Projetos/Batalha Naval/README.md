@@ -5,14 +5,18 @@
    Queres mandar os teus amigos ao mar? Tens aqui uma maneira rápida e divertida de o fazeres através desta
    mini batalha naval para se jogar com 2 microbits. Diverte-te.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1VBdxB64hrADhwg3Amu6z6FI-36meWMr_/view?usp=sharing)
+
+ 
+
+Área de anexos  
   
 #### Autores  
 
 |Nome  |E-mail  |  
 |---|---|    
-|Alexandre Marques  |mailto:(alexandre.marques1000@gmail.com)  |  
-|Nuno Ribeiro  |mailto:(nuno.f.ribeiro.28@gmail.com)  |  
+|Alexandre Marques  |[Email](mailto:alexandre.marques1000@gmail.com)  |  
+|Nuno Ribeiro  |[Email](mailto:nuno.f.ribeiro.28@gmail.com)  |  
 
 
 #### Instruções
