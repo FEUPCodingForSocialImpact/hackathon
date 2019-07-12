@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Raspie
 
-   Descrição...
+   Virtual pet tão simples quanto um pode ser. Doggy boi 1 pixel thicc.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +10,28 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Tiago Gouveia  |[Email](ti.gouveia21@gmail.com)  |  
+|Tomás Macedo  |[Email](tomasmacedo14@gmail.com)  |  
+|Inês Ferreira  |[Email](ines02ferreira@gmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro raspie.py;
+2. Abrir o ficheiro descarregado num raspberry pi com sense hat;
+3. Correr & enjoy.
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Sense HAT | [Ver aqui](https://www.raspberrypi.org/products/sense-hat/) |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|python 3.7  |[Ver aqui](https://www.python.org/downloads/)  |  
 
 
 ***  
