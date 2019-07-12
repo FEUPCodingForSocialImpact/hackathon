@@ -2,7 +2,7 @@
 
 ### Nome...
 
-   Descrição...
+   Através de um ficheiro python e um código para microbit, criámos um "MP3" no qual selecionamos, dentro das músicas disponíveis, qual queremos tocar. Podemon também optar pelo modo random, fazendo com que tocas as músicas disponíveis sejam tocadas de modo aleatório, ou pelo modo playlist, no qual optamos por um conjunto de músicas que queremos ouvir.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,29 +10,30 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Vasco Oliveira  |[Email](vascofilipeoliveira@gmail.com)  |  
+|Gustavo Martins  |[Email](gustavosamartins@gmail.com)  |  
+|Pedro Bruno  |[Email](pedropinhobruno@gmail.com)  |   
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros dentro da pasta "Código"
+2. Abrir o ficheiro "MP3 Py.py" com o Python e copiar o ficheiro "Projeto MP3.hex" para o microbit
+3. Correr o código em Python e escrever o nome da música pretendida sob "Escreva o nome da música" (Shooting Stars, Star Wars, Despacito ou Mario). Escrever "random" para tocar uma música aleatória. Escrever "playlist", seguido do nome das músicas pretendidas, separadas por ENTER, para tocar uma sequência de músicas. Usar o botão A do microbit para dar pause ou retomar a música. Usar o botão B para parar a música.
 
 #### Hardware  
 
-|Nome  |Link  |  
-|---|---|    
+|Nome  |Link  | 
+|---|---| 
+|Microbit|[Ver aqui](https://microbit.org/) |    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Sense HAT  |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/)  |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
-
+|MakeCode  |[Ver aqui](https://makecode.microbit.org/#)  |  
+|Python  |[Ver aqui](https://www.python.org/)  |
 
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
