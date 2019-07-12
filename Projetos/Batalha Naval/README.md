@@ -1,8 +1,9 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Micro Batalha Naval
 
-   Descrição...
+   Queres mandar os teus amigos ao mar? Tens aqui uma maneira rápida e divertida de o fazeres através desta
+   mini batalha naval para se jogar com 2 microbits. Diverte-te.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +11,37 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Alexandre Marques  |[Email](alexandre.marques1000@gmail.com)  |  
+|Nuno Ribeiro  |[Email](nuno.f.ribeiro.28@gmail.com)  |  
+
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro "Batalha Naval"
+2. Abrir a pasta "CÓDIGO" do ficheiro "Batalha Naval"
+3. Enviar o ficheiro .hex da pasta "CÓDIGO" para o "MICROBIT" 
 
+##### Regras do Jogo/Como Jogar
+
+1. Mover o Microbit para andar com o cursor.
+2. Premir o botão A para posicionar um bloco que pode significar um barco ou uma parte de um barco.
+3. Existem 3 tipos de barcos que são: Contra Torpedos (3 blocos seguidos) 
+                                      Rebocador (2 blocos seguidos)
+                                      Submarino (1 Bloco)
+4. Existem 5 barcos para serem posicionados: 1 Contra Torpedos, 2 Rebocadores, e 2 Submarinos
+5. Premir B depois de posicionar cada bloco (IMPORTANTE)
+6. Depois dos barcos posicionados passa-se para a fase do ataque na qual se prime o Botão A para alterar o Número da Coordenada (colunas) e o Botão B para alterar a letra (linhas), depois de ter os Números e Letras escolhidos premir A+B para atacar.   
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Microbit  |[Ver aqui](https://microbit.org/)  |  
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Microsoft MakeCode	  |[Ver aqui](https://makecode.microbit.org/)  |  
 
 
 ***  
