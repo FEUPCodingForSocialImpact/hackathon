@@ -4,7 +4,7 @@
 
    Através de um ficheiro python e um código para microbit, criámos um "MP3" no qual selecionamos, dentro das músicas disponíveis, qual queremos tocar. Podemon também optar pelo modo random, fazendo com que tocas as músicas disponíveis sejam tocadas de modo aleatório, ou pelo modo playlist, no qual optamos por um conjunto de músicas que queremos ouvir.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1rMAJK2gqprI3M3fbKlnBb30-UoFjYJLe/view?usp=sharing)  
   
 #### Autores  
 
