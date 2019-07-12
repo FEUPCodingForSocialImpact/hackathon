@@ -12,7 +12,7 @@
 |---|---|    
 |José Fernandes  |[Email](mailto:jose_mariabf@hotmail.com)  |  
 |Afonso Rios  |[Email](mailto:afonsorios.viana@gmail.com)  |  
-|Pedro "Rato" Sousa  |[Email](mailto:pedromarsousa@gmail.com)  |  
+|Pedro Sousa  |[Email](mailto:pedromarsousa@gmail.com)  |  
  
 
 #### Instruções
