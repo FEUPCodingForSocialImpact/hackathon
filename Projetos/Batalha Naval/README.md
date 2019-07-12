@@ -11,8 +11,8 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Alexandre Marques  |[Email](alexandre.marques1000@gmail.com)  |  
-|Nuno Ribeiro  |[Email](nuno.f.ribeiro.28@gmail.com)  |  
+|Alexandre Marques  |mailto:(alexandre.marques1000@gmail.com)  |  
+|Nuno Ribeiro  |mailto:(nuno.f.ribeiro.28@gmail.com)  |  
 
 
 #### Instruções
