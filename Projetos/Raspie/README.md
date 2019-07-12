@@ -4,7 +4,7 @@
 
    Este é o jogo em que te vais viciar! No jogo Raspie podes ter o teu próprio pet virtual! Podes a qualquer momento descobrir do que precisa, brincar com o Raspie, dar-lhe de comer, mantê-lo limpo e pô-lo a descansar. É só fazer download do jogo no teu Raspberry Pi e começares a divertir-te com o Raspie!
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1rmFdDV4u0YOOFPh8j6nkveF6w22wdfmk/view)  
   
 #### Autores  
 
