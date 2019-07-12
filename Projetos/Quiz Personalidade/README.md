@@ -1,37 +1,36 @@
-﻿# Hackathon Ideias Inteligentes
+# Hackathon Ideias Inteligentes
+### Quiz Personalidade
 
-### Nome...
-
-   Descrição...
+   O nosso projeto consiste num jogo realizado com dois Micro:bit, mais precisamente um quiz, que envia perguntas gerais a duas pessoas sobre os seus gostos e personalidade. Após isto, respondemos ás mesmas perguntas sobre a outra pessoa e conseguimos ver se acertamos ou erramos. No final existe uma pontuação para cada jogador, e ganha quem acertar mais questões sobre o outro. O objetivo final deste jogo é ficar a conhecer melhor a outra pessoa. 
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
 #### Autores  
-
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Beatriz  |[Email](biacarneiro2003@hotmail.com)  |  
+|José Oliveira  |[Email](mailto:email2@gmail.com)  |  
+|Mariana Castro  |[Email](marianamoreiracastro2003@gmail.com)  |  
+
+ 
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros para os micro:bit
+2. Ligar os micro:bit
+3. Começar a jogar
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Micro:bit |[Ver aqui](https://microbit.org/)  |  
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|MakeCode Editor  |[Ver aqui](https://www.microsoft.com/en-us/makecode)  |  
 
 
 ***  
