@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Nome MI Band 5.0
 
-   Descrição...
+   A MI Band 5.0, que tem como base um Micro Bit, é um dispositivo que consegue medir os passos, distância percorrida, calorias despendidas em função do seu peso durante o seu percurso. O seu display magnifíco de 25 LEDs possui também a capacidade de exibir a hora atual.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +10,28 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|José Fernandes  |[Email](mailto:jose_mariabf@hotmail.com)  |  
+|Afonso Rios  |[Email](mailto:afonsorios.viana@gmail.com)  |  
+|Pedro "Rato" Sousa  |[Email](mailto:pedromarsousa@gmail.com)  |  
+ 
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o ficheiro microbit-Fitness-tracker.hex
+2. Abrir o ficheiro no Micro Bit
+3. Correr o programa controlando as funções com os botões do Micro Bit
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Micro Bit  |[Ver aqui](https://microbit.org/)  |  
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Microsoft MakeCode  |[Ver aqui](https://makecode.microbit.org/)  |  
 
 
 ***  
