@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### Boss Fight
 
-   Descrição...
+   Uma luta pela sobrevivência ao som de MEGALOVANIA (díficil). Utiliza funções do Raspberry Pi e do micro:bit.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,29 +10,32 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Luís Henrique Massa  |[Email](mailto:luishmassa@gmail.com)  |  
+|José Leal  |[Email](mailto:joseleal868@gmail.com)  |  
+|António Carmo  |[Email](mailto:antoniocarmo.aj@gmail.com)  |  
+|Gonçalo Figueira  |[Email](mailto:goncalo.m.figueira@gmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar o Boss Fight num Raspberry Pi com Sense HAT.  
+2. Enviar o ficheiro microbit-Voz1.hex para um micro:bit conectado ao Raspberry Pi.
+3. Abrir o ficheiro BOSSFIGHT no Raspberry Pi e configurar o código para a porta de série onde o micro:bit está ligado.
+4. Correr o ficheiro BOSSFIGHT. 
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
+|micro:bit |[Ver aqui](https://microbit.org) |    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Sense HAT |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/) |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
-
+|Python  |[Ver aqui](https://www.python.org)  |  
+|MakeCode  |[Ver aqui](https://makecode.microbit.org)  |
 
 ***  
 [![Raspberry Pi Logo](https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Raspberry_Pi_Logo.svg/50px-Raspberry_Pi_Logo.svg.png)](http://raspberrypi.org)   
