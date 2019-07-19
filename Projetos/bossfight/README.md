@@ -4,7 +4,7 @@
 
    Uma luta pela sobrevivência ao som de MEGALOVANIA (díficil). Utiliza funções do Raspberry Pi e do micro:bit.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1P_bOpvzVYx2Ep7HbyK0dlT4QsenI0n0a/view?usp=sharing)  
   
 #### Autores  
 
