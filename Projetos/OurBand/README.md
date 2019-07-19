@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### OurBand
 
-   Descrição...
+   Com este projeto pretendemos criar um relógio com a função de enviar e receber mensagens em código morse, trocadas com outros relógios com o mesmo código, mostrar os valores de temperatura atual no meio, para além do relógio, que é possivel acertar. Tem também uma funcionalidade musical.
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +10,32 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|João Moura  |[Email](mailto:joaomoura03@gmail.com)  |  
+|Leonor Medeiros  |[Email](mailto:leo305medeiros@gmail.com)  |  
+|Nuno Silva  |[Email](mailto:nunomigsilva03@gmail.com)  |  
+|Pedro Januário  |[Email](mailto:psjvieira@gmail.com)  |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros de código "microbit.hex" e "stats.py".
+2. Copiar o ficheiro "microbit.hex" para dois micro:bits.
+3. Para registar as leituras de temperatura, correr o "stats.py" no Raspberry Pi e seguir as instruções apresentadas.
+4. Nos micro:bits, abanar para mostrar as horas e a temperatura atual, em graus Celsius e em Fahrenheit. Para acertar o relógio. inclinar para o lado esquerdo para acertar as horas e para o lado direito para acertar os minutos. Para comunicar com outro micro:bit com o mesmo programa, consultar as letras, símbolos e números pretendidos [aqui](https://pt.wikipedia.org/wiki/C%C3%B3digo_Morse), pressionar o botão A para ponto, B para linha e A+B (em simultâneo) para enviar. Dar uma pancada para tocar música.
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |
+|Micro:bit  |[Ver aqui](http://www.microbit.org)  | 
+|SenseHAT |[Ver aqui](http://www.astro-pi.org/about/hardware/sense-hat/)  | 
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python 3 |[Ver aqui](http://www.python.org)  | 
+|micro:bit MakeCode |[Ver aqui](http://www.makecode.microbit.org)  |
 
 
 ***  
