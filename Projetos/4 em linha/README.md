@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### 4 em linha
 
-   Descrição...
+   Réplica do jogo tradicional 4 em linha
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +10,30 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
+|Francisco Monteiro  |[Email](mailto:franciscomonteiro403@gmail.com)  |  
+|Miguel Carvalho  |[Email](mailto:miguelmatoscarvalho@gmail.com)  |  
+|Tiago Gouveia  |[Email](mailto:tiagoasgouveia@outlook.com)  |  
+|Tomás Vicente  |[Email](mailto:tasvicente@gmail.com) |  
 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar a pasta "4 em linha"
+2. Abrir o ficheiro "4_em_linha.py"
+3. Correr o programa que iniciará automaticamente uma sequência de início de jogo.
+4. Alternando o jogador, utilizem o joystick pertencente ao Sense HAT para mover a peça (joystick para a esquerda, a peça     mover-se-à para a esquerda, a mesma coisa para a direita, no entanto se moverem o joystick para baixo, a peça irá cair, caso necessitem de reiniciar a partida, mova o joystick para cima)
+5. Assim que existam 4 peças da mesma cor em linha, será iniciada uma sequência de vitória e o jogo reiniciará automaticamente. 
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
 |Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
-
+|Sense HAT | [Ver aqui](https://www.raspberrypi.org/blog/sense-hat-projects)   |
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python  |[Ver aqui](https://www.python.org/)  |  
 
 
 ***  
