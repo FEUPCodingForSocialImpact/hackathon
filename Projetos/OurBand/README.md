@@ -20,7 +20,7 @@
 1. Descarregar os ficheiros de código "microbit.hex" e "stats.py".
 2. Copiar o ficheiro "microbit.hex" para dois micro:bits.
 3. Para registar as leituras de temperatura, correr o "stats.py" no Raspberry Pi e seguir as instruções apresentadas.
-4. Nos micro:bits, abanar para mostrar as horas e a temperatura atual, em graus Celsius e em Fahrenheit. Para acertar o relógio. inclinar para o lado esquerdo para acertar as horas e para o lado direito para acertar os minutos. Para comunicar com outro micro:bit com o mesmo programa, consultar as letras, símbolos e números pretendidos [aqui](https://pt.wikipedia.org/wiki/C%C3%B3digo_Morse), pressionar o botão A para ponto, B para linha e A+B (em simultâneo) para enviar. Dar uma pancada para tocar música.
+4. Nos micro:bits, abanar para mostrar as horas e a temperatura atual, em graus Celsius e em Fahrenheit. Para acertar o relógio, inclinar para o lado esquerdo para acertar as horas e para o lado direito para acertar os minutos. Para comunicar com outro micro:bit com o mesmo programa, consultar as letras, símbolos e números pretendidos [aqui](https://pt.wikipedia.org/wiki/C%C3%B3digo_Morse), pressionar o botão A para ponto, B para linha e A+B (em simultâneo) para enviar. Dar uma pancada para tocar música.
 
 #### Hardware  
 
