@@ -4,7 +4,7 @@
 
    Com este projeto pretendemos criar um relógio com a função de enviar e receber mensagens em código morse, trocadas com outros relógios com o mesmo código, mostrar os valores de temperatura atual no meio, para além do relógio, que é possivel acertar. Tem também uma funcionalidade musical.
   
-##### [Vídeo aqui](Demo/video.mp4?raw=true)  
+##### [Vídeo aqui](https://drive.google.com/file/d/11Dlrv6fM77aMS6Qvw0cR_HFq25lu0yLr/view?usp=sharing)  
   
 #### Autores  
 
