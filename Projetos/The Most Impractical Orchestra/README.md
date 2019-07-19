@@ -1,8 +1,8 @@
 ﻿# Hackathon Ideias Inteligentes
 
-### Nome...
+### The Most Impractical Orchestra
 
-   Descrição...
+   Orquestra com seleção de músicas e que nunca sai do tempo, o que é que poderia dar de errado?? O facto dos músicos serem micro:bits 
   
 ##### [Vídeo aqui](Demo/video.mp4?raw=true)  
   
@@ -10,28 +10,32 @@
 
 |Nome  |E-mail  |  
 |---|---|    
-|Nome1  |[Email](mailto:email1@gmail.com)  |  
-|Nome2  |[Email](mailto:email2@gmail.com)  |  
-|Nome3  |[Email](mailto:email3@live.com.pt)  |  
-|Nome4  |[Email](mailto:nome4@live.com.pt)  |  
-
+|Diogo Caldas  |[Email](mailto:diogo.caldas.silva@gmail.com)  |  
+|Tomás Lopes  |[Email](mailto:tosulopgaming@gmail.com)  |  
+|Miguel Mota  |[Email](mailto:migueloureiromota@gmail.com)  |  
+|Pedro Coelho  |[Email](mailto:pira200241@gmail.com)  |  
+ 
 #### Instruções
 
-1. Descarregar o...
-2. Abrir o ficheiro...
-3. Correr...
+1. Descarregar os ficheiros íncluidos na pasta código
+2. Colocar o ficheiro .py no Raspberry Pi 3, e carregar os ficheiros "Vozes1" no primeiro micro:bit, o "Vozes2" no segundo micro:bit e o "Vozes3" no terceiro microbit
+3. Já no Raspberry Pi3 ligar o SenseHat e os 3 microbits ao Raspberry e abrir o terminal e escrever "ls/dev/" procuras os nomes á amarelo que digam ttyACM(Num que aparece) e substituir o ttyACM que já existe no .py pelos 3 ttyACM que se encontram no terminal (se não aparecerem 3 significa que não estão ligados os 3 micro:bits)
+4. Após estes passos feitos correr o programa, escolher a música através do número que a corresponde.
 
 #### Hardware  
 
 |Nome  |Link  |  
 |---|---|    
-|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |  
+|Raspberry Pi 3  |[Ver aqui](http://www.raspberrypi.org)  |
+|Sense Hat |[Ver aqui](https://www.raspberrypi.org/products/sense-hat/) |
+|micro:bit|[Ver aqui](https://microbit.org/) |
 
 #### Software  
 
 |Nome  |Link  |  
 |---|---|    
-|XXX  |[Ver aqui](http://www.xxx.yyy)  |  
+|Python 3|[Ver aqui](https://www.python.org/downloads/)  |  
+|micro:bit makecode|[Ver aqui](https://makecode.microbit.org/#)  |  
 
 
 ***  
