@@ -4,7 +4,7 @@
 
    Réplica do jogo tradicional 4 em linha
   
-##### [Vídeo aqui](https://drive.google.com/file/d/1fPzCDOT7xVvorQzxgC5FOJ5wM6KJ53/view?usp=sharing)  
+##### [Vídeo aqui](https://drive.google.com/file/d/1fPzCDOT7xVvorjQzxgC5FOJ5wM6KJ53/view?usp=sharing)  
   
 #### Autores  
 
